@@ -1,0 +1,42 @@
+/* MOBILE */
+@media (max-width: 768px) {
+
+  .navbar {
+    overflow-x: auto;
+    white-space: nowrap;
+    justify-content: flex-start;
+  }
+
+  .logo {
+    font-size: 18px;
+    min-width: fit-content;
+  }
+
+  .nav-btn {
+    min-width: fit-content;
+  }
+
+  .hero {
+    padding: 35px 20px !important;
+  }
+
+  .hero h1 {
+    font-size: 34px !important;
+  }
+
+  .hero p {
+    font-size: 16px !important;
+  }
+
+  .stats {
+    grid-template-columns: 1fr !important;
+  }
+
+  .subjects {
+    grid-template-columns: 1fr !important;
+  }
+
+  .subject-card {
+    width: 100%;
+  }
+}
