@@ -11,6 +11,10 @@ The project provides a clean and structured interface that allows students to qu
 ![Homepage](./screenshots/screenshot1.png)
 ![Homepage](./screenshots/screenshot2.png)
 
+## LIVE DEMO
+
+https://nimcet-hub.vercel.app 
+
 ## Features
 
 ### Mathematics
