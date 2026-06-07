@@ -8,6 +8,9 @@ NIMCET Hub is a subject-wise learning and revision platform designed to organize
 
 The project provides a clean and structured interface that allows students to quickly navigate between different subjects and revision modules.
 
+![Homepage](./screenshots/screenshot1.png)
+![Homepage](./screenshots/screenshot2.png)
+
 ## Features
 
 ### Mathematics
