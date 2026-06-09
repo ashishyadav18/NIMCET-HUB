@@ -2,6 +2,13 @@
 
 A structured NIMCET preparation platform built using React and Vite.
 
+
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-5-purple)
+
+[![Vercel Status](https://img.shields.io/badge/Live-Demo-success)](https://nimcet-hub.vercel.app)
+
 ## Overview
 
 NIMCET Hub is a subject-wise learning and revision platform designed to organize important concepts, formulas, notes, examples, and exam-oriented content for the NIMCET examination.
@@ -11,9 +18,18 @@ The project provides a clean and structured interface that allows students to qu
 ![Homepage](./screenshots/screenshot1.png)
 ![Homepage](./screenshots/screenshot2.png)
 
-## LIVE DEMO
+## Highlights
 
-https://nimcet-hub.vercel.app 
+- 📚 Subject-wise Notes
+- 📖 Revision Content
+- 🧠 Logical Reasoning Modules
+- 💻 Computer Awareness
+- 📱 Responsive Design
+- ⚡ Fast Vite Build
+
+## Live Demo
+
+🌐 https://nimcet-hub.vercel.app
 
 ## Features
 
@@ -56,12 +72,27 @@ https://nimcet-hub.vercel.app
 * JavaScript (ES6+)
 * CSS
 
+## Architecture
+
+Frontend:
+- React
+- Vite
+- CSS
+
+Deployment:
+- Vercel
+
+Content:
+- NIMCET Notes
+- Revision Material
+- Exam Preparation Resources
+
 ## Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/nimcet-hub.git
+git clone https://github.com/ashishyadav18/nimcet-hub.git
 ```
 
 Install dependencies:
